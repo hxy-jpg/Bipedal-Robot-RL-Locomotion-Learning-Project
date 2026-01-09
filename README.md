@@ -9,7 +9,15 @@
 
 - 穿越多种复杂地形
 
-![play_isaaclab](pictures/demo.gif)
+![play_isaaclab](media/demo.gif)
+
+- 抗干扰测试
+
+![play_isaaclab](media/demo2.gif)
+
+- 键盘输入指令
+
+![play_isaaclab](media/demo3.gif)
 
 ---
 
@@ -17,11 +25,6 @@
 
 该仓库用于训练和仿真双足机器人，例如[limxdynamics TRON1](https://www.limxdynamics.com/en/tron1)。
 借助[Isaac Lab](https://github.com/isaac-sim/IsaacLab)框架，我们可以训练双足机器人在不同环境中行走，包括平地、粗糙地形和楼梯等。
-
-This repository is used to train and simulate bipedal robots, such as [limxdynamics TRON1](https://www.limxdynamics.com/en/tron1).
-With the help of [Isaac Lab](https://github.com/isaac-sim/IsaacLab), we can train the bipedal robots to walk in different environments, such as flat, rough, and stairs.
-
-**关键词 / Keywords:** isaaclab, locomotion, bipedal, pointfoot, TRON1
 
 ---
 
